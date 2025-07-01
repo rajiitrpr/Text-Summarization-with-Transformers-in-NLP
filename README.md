@@ -26,7 +26,7 @@ This project focuses on implementing text summarization using Natural Language P
 ## Installation
 1. Clone the repository:
     ```bash
-    git clone https://github.com/TilakSanghvi/Text_Summarization.git
+    git clone https://github.com/rajiitrpr/Text-Summarization-with-Transformers-in-NLP
     ```
 2. Navigate to the project directory:
     ```bash
@@ -56,5 +56,5 @@ Contributions are welcome! Please follow these steps to contribute:
 This project is licensed under the MIT License. See the `LICENSE` file for more details.
 
 ## Contact
-For any inquiries, please contact Tilak Sanghvi at [tilakcsanghvi@gmail.com](mailto:tilakcsanghvi@gmail.com).
+For any inquiries, please contact Raj Sureka at [rsureka13@gmail.com](mailto:rsureka13@gmail.com).
 
